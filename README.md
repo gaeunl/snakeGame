@@ -1,5 +1,5 @@
 # Snake Game
-Used pygame module to create a snake game. The game can be originally find at "https://www.coolmathgames.com/0-snake"
+Used pygame module to create a snake game. The game can be originally found at [here](https://www.coolmathgames.com/0-snake).
 
 ## How to Play
 - use arrow key to move the snake (the snake cannot move in opposite direction)
